@@ -44,3 +44,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamjizoyo&show_icons=true&locale=en" alt="shyamjizoyo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamjizoyo&" alt="shyamjizoyo" /></p>
+
+
+## 📈 GitHub Stats 
+
+<p align="center">
+ <img width="200px"src="assets/header/lights.png">
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshergon&layout=compact&theme=radical&custom_title=Languages" /> 
+ <img width="200px"src="assets/header/lights.png">
+ <br>
+ <br>
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arshergon&theme=redical">
+ 
+</p>
+<!-- platane/snk works, it just puts it on a new branch -->
+
+ ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
+</p>

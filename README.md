@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/headerImage.jpg?raw=true)]
+![MasterHead](https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/headerImage.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Shyam Ji</h1>
 <h3 align="center">Hello Everyone , I'm Student of B.Tech CSE</h3>

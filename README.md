@@ -8,6 +8,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
 </p>
 
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shyam-ji-gupta-2743bb204/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.instagram.com/shyamjizoyo/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamjizoyo&label=Profile%20views&color=0e75b6&style=flat" alt="shyamjizoyo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyamjizoyo" alt="shyamjizoyo" /></a> </p>

@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shyam-ji-gupta-2743bb204/](https://www.linkedin.com/in/shyam-ji-gupta-%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-2743bb204/)">
+<a href="https://www.linkedin.com/in/shyam-ji-gupta-%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-2743bb204/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://www.instagram.com/shyamjizoyo/">
